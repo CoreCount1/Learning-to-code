@@ -1,4 +1,4 @@
-print("fixx-buzz game")
+print("fizz-buzz game")
 print("due to poor technology (my brain) in canada i am not able to make a more interesting game")
 
 user_input_number = int(input("Put in a non decimal number"))
