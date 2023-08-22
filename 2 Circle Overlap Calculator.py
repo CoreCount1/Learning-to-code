@@ -19,6 +19,8 @@ print("Y Coordinate2: " + str(y_coordinate_2))
 radius_2 = int(input("Radius for the second circle"))
 print("Radius2: " + str(radius_2))
 
+# anything past this was done using github co-pilot
+
 distance_between_centers = ((x_coordinate_2 - x_coordinate_1) ** 2 + (y_coordinate_2 - y_coordinate_1) ** 2) ** 0.5
 
 if distance_between_centers < radius_1 + radius_2:
